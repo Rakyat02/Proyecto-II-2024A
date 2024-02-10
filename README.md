@@ -6,7 +6,7 @@ desde miscelaneas hasta cadenas de tiendas.
 
 Forman parte del proyecto las siguientes personas:
 
-Jair Isael Gomez Valadez
-Gael Alejandro Perez Rodriguez
-Raquel Sánchez Sánchez
-Lorenzo Antonio Sánchez Cortés
+Jair Isael Gomez Valadez |
+Gael Alejandro Perez Rodriguez |
+Raquel Sánchez Sánchez |
+Lorenzo Antonio Sánchez Cortés |
